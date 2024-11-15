@@ -37,7 +37,7 @@ If the secret code is `1234` and the player guesses `4233`, the feedback will be
 1. Clone the repository:
    ```bash
    git clone https://github.com/mustng/mastermind-game.git
-   cd mastermind-console-app
+   cd mastermind-game
    ```
 2. Open the project in Visual Studio or any C# IDE.
 3. Build and run the application.
